@@ -1,22 +1,7 @@
-# Python
+# Ignore .venv folders (both in main folder and backend)
 .venv/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.pkl
-*.h5
+backend/.venv/
 
-# Node.js
+# Ignore node_modules folders
 node_modules/
-.env
-
-# OS/System Files
-.DS_Store
-Thumbs.db
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Logs
-*.log
+backend/node_modules/
