@@ -1,15 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.h5
+
 # Node.js
 node_modules/
 .env
 
-# Python
-__pycache__/
-*.pyc
-*.pkl
-*.h5
-
-# OS files
+# OS/System Files
 .DS_Store
+Thumbs.db
 
 # Jupyter
-.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
