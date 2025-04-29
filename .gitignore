@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
