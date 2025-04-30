@@ -1,7 +1,7 @@
-# Ignore .venv folders (both in main folder and backend)
+# Python virtual environments
 .venv/
-backend/.venv/
+*/.venv/
 
-# Ignore node_modules folders
+# Node.js dependencies
 node_modules/
-backend/node_modules/
+*/node_modules/
